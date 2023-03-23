@@ -1,6 +1,6 @@
 ## Terraform module for Lambda and API Gateway
 
-The module create a lambda with API Gateway
+The module creates a lambda with API Gateway
 The lambda function listes for HTTP POST requests and sends back a response from a Node.js application
 
 
